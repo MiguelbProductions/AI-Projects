@@ -1,4 +1,3 @@
-import numpy as np  # Import numpy for numerical operations
 import pandas as pd  # Import pandas for data manipulation
 import matplotlib.pyplot as plt  # Import matplotlib for data visualization
 from sklearn.model_selection import train_test_split  # Import train_test_split for splitting data
